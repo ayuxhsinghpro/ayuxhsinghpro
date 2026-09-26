@@ -69,8 +69,7 @@ A responsive calculator built using HTML, CSS and JavaScript.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/ayuxhsinghpro
-- LinkedIn: Coming soon
-
+- LinkedIn: https://www.linkedin.com/in/ayush-singh-311783385?utm_source=share_via&utm_content=profile&utm_medium=member_android
 ---
 
 ⭐ Building. Learning. Improving. 🚀
